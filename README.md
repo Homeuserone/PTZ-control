@@ -1,2 +1,2 @@
-# Infrared-visible-target-detection
-Some infrared visible cross-domain target detection
+# PTZ control
+Code for PELCO-D protocol PTZ control
